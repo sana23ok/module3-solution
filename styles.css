@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.custom-navbar {
+    border-radius: 2px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.custom-navbar-brand {
+    font-size: 35px;
+    color: white;
+    padding-left: 25px;
+}
+
+.custom-navbar-brand:hover {
+    color: white;
+}
+
+.custom-nav {
+    margin: 0;
+    padding: 0;
+}
+
+.custom-navbar-toggle {
+    border: 2px solid white;
+    margin-right: 25px;
+}
+
+.custom-icon-bar {
+    background-color: white;
+}
+
+.custom-main-title {
+    margin-bottom: 15px;
+    text-align: center;
+    color: #dc7a6f;
+    font-size: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+}
+
+.custom-menu-item {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: white;
+    border-bottom: 1px solid black;
+    color: black;
+    display: block;
+}
+
+.custom-menu-item:hover {
+    background-color: rgba(37, 32, 32, 0.9);
+    color: rgba(50, 46, 46, 0.4);
+}
+
+.row {
+    margin: 20px;
+}
+
+.custom-content-box {
+    margin: 20px;
+    width: auto;
+    height: auto;
+    color: black;
+    background-color: rgba(0, 0, 0, 0.2);
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding: 20px;
+}
+
+.custom-item-name {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#top {}
